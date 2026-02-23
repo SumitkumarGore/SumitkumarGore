@@ -1,9 +1,13 @@
-## Hi there 👋 I'm Sumitkumar Gore
+<div align="center">
+
+## Hi there 👋 I'm Sumit Gore
 
 🎓 Diploma student | 💻 Aspiring Web Developer  
 📍 Pune, India  
 
 I’m learning web development step-by-step and sharing my journey on GitHub 🚀  
+
+</div>
 
 ---
 
