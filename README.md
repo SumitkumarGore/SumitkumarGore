@@ -1,16 +1,29 @@
-## Hi there 👋
+## Hi there 👋 I'm Sumit Gore
 
-<!--
-**SumitkumarGore/SumitkumarGore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Diploma student interested in coding and web development  
+📍 Pune, India  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+- 🌱 Currently learning **HTML, CSS, JavaScript**
+- 💻 Practicing daily by building small projects
+- 🎯 Goal: Become a skilled web developer
+
+---
+
+### 🛠 Skills
+- **Web:** HTML, CSS, JavaScript (Beginner)
+- **Tools:** Git, GitHub, VS Code
+- **Design:** Canva (Basic)
+
+---
+
+### 📂 Projects
+- 🔗 Portfolio Website
+- 🔗 Daily Uploads Practice
+
+---
+
+### 📫 Contact
+📧 goresumitkumar@gmail.com
